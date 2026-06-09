@@ -6,5 +6,12 @@
 
 ---
 
-<!-- MX — 稲葉曇『ロストアンブレラ』Vo. 歌愛ユキ -->
-[·](https://www.youtube.com/watch?v=DeKLpgzh-qQ)
+<details>
+<summary>·</summary>
+<br>
+
+**MX** — 稲葉曇『ロストアンブレラ』Vo. 歌愛ユキ
+
+[![YouTube](https://img.shields.io/badge/YouTube-MX-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=DeKLpgzh-qQ)
+
+</details>
