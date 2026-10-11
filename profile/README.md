@@ -2,7 +2,6 @@
 
 # IRIS
 
-###### Institute for Research in Information Security
 
 ---
 
